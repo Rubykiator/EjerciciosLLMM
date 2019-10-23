@@ -1,0 +1,24 @@
+<html>
+
+Crea una cabecera h1 para “Curriculum Vitae”
+Usa una cabecera h2 Cada apartado 
+Coloca una etiqueta “strong” para los datos
+
+
+
+<h1> Curriculum Vitae </h1>
+
+<h2>Datos personales</h2>
+ Nombre completo:  Juan Pérez
+ Fecha de nacimiento: 12 de diciembre de 1982
+ Lugar de nacimiento:  Huelva (España)
+
+<h2>Formación académica</h2>
+ 2000-2004: Universidad de Huelva
+ 1994-2000: IES La Marisma
+
+Experiencia laboral
+ 2004-2019: Diseño web
+ 2000-2004: Colaboración con diversas ONGs
+ 
+ </html>
