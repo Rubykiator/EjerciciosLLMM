@@ -1,0 +1,18 @@
+<Catalog>
+   <Book id="bk101">
+      <Author>Pérez, Jose</Author>
+      <Title>XML Guía</Title>
+      <Genre>Computer</Genre>
+      <Price>24.95</Price>
+      <PublishDate>2000-08-01</PublishDate>
+      <Description> guía de XML.</Description>
+   </Book>
+   <Book id="bk102">
+      <Author>Márquez, Juan</Author>
+      <Title>Elfos</Title>
+      <Genre>Fantasy</Genre>
+      <Price>15.95</Price>
+      <PublishDate>2000-10-14</PublishDate>
+      <Description>Una historia sobre elfos humildes</Description>
+   </Book>
+</Catalog>
