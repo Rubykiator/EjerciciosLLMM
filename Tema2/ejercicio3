@@ -9,16 +9,17 @@ Coloca una etiqueta “strong” para los datos
 <h1> Curriculum Vitae </h1>
 
 <h2>Datos personales</h2>
- Nombre completo:  Juan Pérez
- Fecha de nacimiento: 12 de diciembre de 1982
- Lugar de nacimiento:  Huelva (España)
+ Nombre completo:  <strong>Juan Pérez</strong>
+ Fecha de nacimiento: <strong>12 de diciembre de 1982</strong>
+ Lugar de nacimiento:  <strong>Huelva (España)</strong>
 
 <h2>Formación académica</h2>
- 2000-2004: Universidad de Huelva
- 1994-2000: IES La Marisma
+ 2000-2004: <strong>Universidad de Huelva</strong>
+ 1994-2000: <strong>IES La Marisma</strong>
 
 Experiencia laboral
- 2004-2019: Diseño web
- 2000-2004: Colaboración con diversas ONGs
+ 2004-2019: <strong>Diseño web</strong>
+ 2000-2004: <strong>Colaboración con diversas ONGs</strong>
  
  </html>
+</strong>
