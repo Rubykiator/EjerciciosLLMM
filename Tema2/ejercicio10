@@ -15,7 +15,8 @@ p.segundo {
 p.tercero {
   border-style: groove;
   border-color: yellow;
-  
+ }
+ 
   p.cuarto {
   border-style: ridge;
   border-color:  blue ;
